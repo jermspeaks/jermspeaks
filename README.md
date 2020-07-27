@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on different UIs for Clear Labs. A side project in Golang. 
+- 🔭 I’m currently working on different UIs for Clear Labs. A side project in Golang. 
 - 🌱 I’m currently learning Golang. Will be writing about it on dev.to.
-<!-- - 👯 I’m looking to collaborate with some writing, my go -->
+<!-- 👯 I’m looking to collaborate with some writing, my go -->
 - 🤔 I’m looking for help with my side project. Could use some help writing a front-end for my project.
 - 💬 Ask me about 
 - 📫 How to reach me: email. I'm rarely on Twitter
