@@ -26,27 +26,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love baking!
 
-<!--
-“Its possible to do what you really want in life and pay the bills.”
-Location:
-San Jose, California, USA
+## 💬 Socials
 
-Professional title:
-Web Developer
+📫 How to reach me
 
-What do you do?
-Working on a product I believe in. Focused on dev work, playing music, keeping in shape.
+<p align="left">
+  <a href="https://craftbyzen.com/rss.xml" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.github.com/jermspeaks" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://dev.to/jermspeaks" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/jeremynwong" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.twitter.com/jermspeaks" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+</p>
 
-Why?
-I believe any business can benefit from a new perspective, and a fresh approach
-
-What should we read?
-The Millionaire Teacher by Andrew Hallam
-
-URLs:
-http://www.timur.ca/
-
-Resources:
-- [What is a "now" page](https://nownownow.com/about)
-
--->
+[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jermspeaks&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
