@@ -13,12 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on different User Interfaces for Clear Labs. A side project in Golang. 
-- 🌱 I’m currently learning Golang. Will be writing about it on dev.to.
-<!-- 👯 I’m looking to collaborate with some writing, my go -->
-- 🤔 I’m looking for help with my side project. Could use some help writing a front-end for my project.
+# 👋 A little filler on Jeremy
+
+- 🧬 I’m currently working as an Application developer for Clear Labs
+- 💻 My website is [Craft By Zen](https://craftbyzen.com/) where I write, share projects, and curate personal collections of anything I can think about.
+  - As an aside, here is the [Github Repo](https://github.com/jermspeaks/jermspeaks.github.io)
+  - I write [a weekly post](https://craftbyzen.com/blog/tag/weekly) that's out every week.
+  - My ["Now" page](https://craftbyzen.com/now/)
+- 🤖 I'm looking to collaborate with others on creating bespoke applications with non-coders.
 - 💬 Ask me about 
-- 📫 How to reach me: email. I'm rarely on Twitter
+- 📫 How to reach me: [email](mailto:jeremy@craftbyzen.com). I'm rarely on [Twitter/X](https://twitter.com/jermspeaks), [Mastodon](https://mastodon.online/@jermspeaks), [LinkedIn](https://www.linkedin.com/in/jeremynwong/), or [Bluesky](https://bsky.app/profile/jermspeaks.bsky.social), although I have a presence on those.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love baking!
 
