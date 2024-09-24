@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 - 🧬 I’m currently working as an Application developer for Clear Labs
 - 💻 My website is [Craft By Zen](https://craftbyzen.com/) where I write, share projects, and curate personal collections of anything I can think about.
-  - As an aside, here is the [Github Repo](https://github.com/jermspeaks/jermspeaks.github.io)
-  - I write [a weekly post](https://craftbyzen.com/blog/tag/weekly) that's out every week.
+  - Review its [source code](https://github.com/jermspeaks/jermspeaks.github.io)
+  - I publish [weeknotes](https://craftbyzen.com/blog/tag/weekly)
   - My ["Now" page](https://craftbyzen.com/now/)
+- 🗞️ [Newsletter](https://buttondown.com/craftbyzen) - Released monthly
 - 🤖 I'm looking to collaborate with others on creating bespoke applications with non-coders.
-- 💬 Ask me about 
+- 💬 Ask me about cooking, baking, video games, hiking, travel, and obituaries. 
 - 📫 How to reach me: [email](mailto:jeremy@craftbyzen.com). I'm rarely on [Twitter/X](https://twitter.com/jermspeaks), [Mastodon](https://mastodon.online/@jermspeaks), [LinkedIn](https://www.linkedin.com/in/jeremynwong/), or [Bluesky](https://bsky.app/profile/jermspeaks.bsky.social), although I have a presence on those.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love baking!
+<!-- - ⚡ Fun fact: I love baking! -->
 
 ## 💬 Socials
 
