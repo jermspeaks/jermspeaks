@@ -16,13 +16,8 @@ Here are some ideas to get you started:
 # 👋 A little filler on Jeremy
 
 - 🧬 I’m currently working as an Application developer for Clear Labs
-- 💻 My website is [Craft By Zen](https://craftbyzen.com/) where I write, share projects, and curate personal collections of anything I can think about.
-  - Review its [source code](https://github.com/jermspeaks/jermspeaks.github.io)
-  - I publish [weeknotes](https://craftbyzen.com/blog/tag/weekly)
-  - My ["Now" page](https://craftbyzen.com/now/)
-- 🗞️ [Newsletter](https://buttondown.com/craftbyzen) - Released monthly
-- 🤖 I'm looking to collaborate with others on creating bespoke applications with non-coders.
-- 💬 Ask me about cooking, baking, video games, hiking, travel, and obituaries. 
+- 💻 My website is [Craft By Zen](https://craftbyzen.com/). The [Source](https://github.com/jermspeaks/jermspeaks.github.io) and my ["Now" page](https://craftbyzen.com/now/)
+- 🗞️ [Newsletter](https://buttondown.com/craftbyzen) - Defunct.
 - 📫 How to reach me: [email](mailto:jeremy@craftbyzen.com). I'm rarely on [Twitter/X](https://twitter.com/jermspeaks), [Mastodon](https://mastodon.online/@jermspeaks), [LinkedIn](https://www.linkedin.com/in/jeremynwong/), or [Bluesky](https://bsky.app/profile/jermspeaks.bsky.social), although I have a presence on those.
 - 😄 Pronouns: He/Him/His
 <!-- - ⚡ Fun fact: I love baking! -->
@@ -38,14 +33,8 @@ Here are some ideas to get you started:
   <a href="https://www.github.com/jermspeaks" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <a href="https://dev.to/jermspeaks" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
-  </a>
   <a href="https://www.linkedin.com/in/jeremynwong" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.twitter.com/jermspeaks" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
 </p>
 
